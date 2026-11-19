@@ -1,0 +1,77 @@
+{
+  "asOf": "2026-11-16",
+  "tagline": "Every name here showed up 500 times or more.",
+  "footer": {
+    "left": "Names as of November 16, 2026",
+    "right": "rewards.crossfitfortius.com"
+  },
+  "sections": [
+    {
+      "label": "GRIT 500",
+      "names": [
+        "Aaron F.",
+        "Alyssa G.",
+        "Amanda D.",
+        "Anna B.",
+        "Ash A.",
+        "Ben D.",
+        "Caitlin S.",
+        "Daniela S.",
+        "Erica S.",
+        "Erin C.",
+        "Hector G.",
+        "Jacob S.",
+        "Jason N.",
+        "Jennifer G.",
+        "Joanna C.",
+        "Justine L.",
+        "Lucie M.",
+        "Marc S.",
+        "Marcel O.",
+        "Matt B.",
+        "Melissa D.",
+        "Michael R.",
+        "Michelle B.",
+        "Mike R.",
+        "Neil H.",
+        "Nicholas L.",
+        "Nick V.",
+        "Patricia P.",
+        "Roxanne P.",
+        "Shannon B.",
+        "Shawn K.",
+        "Shawn P.",
+        "Shay H.",
+        "Thomas D.",
+        "Tyler B.",
+        "Vilma S.",
+        "Zane G."
+      ]
+    },
+    {
+      "label": "GRIT 1000",
+      "names": [
+        "Amanda D.",
+        "Anna B.",
+        "Michael R.",
+        "Mike R.",
+        "Patricia P.",
+        "Shawn K.",
+        "Thomas D."
+      ]
+    },
+    {
+      "label": "GRIT 1500",
+      "names": [
+        "Amanda D.",
+        "Michael R."
+      ]
+    },
+    {
+      "label": "GRIT 2000",
+      "names": []
+    }
+  ],
+  "summit": null,
+  "thisWeek": []
+}
